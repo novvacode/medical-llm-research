@@ -1,0 +1,177 @@
+[
+  {
+    "question": "An investigator is studying genetic mutations of coagulation factors from patient samples. Genetic sequencing of one patient's coagulation factors sho",
+    "reference": "C",
+    "predicted": "A",
+    "raw_output": "A: Petechiae.",
+    "correct": false
+  },
+  {
+    "question": "A 57-year-old man presents with a large wound on his right lower leg that has been present for 6 months as shown in the picture. He has had chronicall",
+    "reference": "C",
+    "predicted": "C",
+    "raw_output": "C: Chronic venous insufficiency",
+    "correct": true
+  },
+  {
+    "question": "A 66-year-old man is brought to the emergency department because of fever, chills, and altered mental status for 3 days. According to his daughter, he",
+    "reference": "D",
+    "predicted": "D",
+    "raw_output": "D: Adverse effect of warfarin.",
+    "correct": true
+  },
+  {
+    "question": "A 48-year-old man comes to the physician because of a 2-day history of an itchy rash. He has no history of skin problems. He had an upper respiratory ",
+    "reference": "C",
+    "predicted": "D",
+    "raw_output": "D: Cutaneous mast cell activation.",
+    "correct": false
+  },
+  {
+    "question": "A 27-year-old man is brought into the emergency department by ambulance. The patient was at an appointment to receive welfare when he began acting abn",
+    "reference": "C",
+    "predicted": "A",
+    "raw_output": "A: Complex partial seizure. The patient",
+    "correct": false
+  },
+  {
+    "question": "A 77-year-old man with hypertension, type 2 diabetes mellitus, and atrial fibrillation is admitted to the hospital because of a 3-hour history of naus",
+    "reference": "C",
+    "predicted": "A",
+    "raw_output": "A: Coagulative necrosis.",
+    "correct": false
+  },
+  {
+    "question": "A 22-year-old woman with type 1 diabetes mellitus and mild asthma comes to the physician for a follow-up examination. She has had several episodes of ",
+    "reference": "B",
+    "predicted": "A",
+    "raw_output": "Before exercise.",
+    "correct": false
+  },
+  {
+    "question": "A 36-year-old man is admitted to the hospital because of a 1-day history of epigastric pain and vomiting. He has had similar episodes of epigastric pa",
+    "reference": "C",
+    "predicted": "B",
+    "raw_output": "B: Chronic kidney disease. The patient",
+    "correct": false
+  },
+  {
+    "question": "A 9-year-old girl is admitted to the hospital with a one-day history of acute abdominal pain and vomiting. She also has a two-day history of fever, he",
+    "reference": "A",
+    "predicted": "B",
+    "raw_output": "B: Adrenal hemorrhage.",
+    "correct": false
+  },
+  {
+    "question": "A 70-year-old man comes to the physician for the evaluation of pain, cramps, and tingling in his lower extremities over the past 6 months. The patient",
+    "reference": "A",
+    "predicted": "B",
+    "raw_output": "B: Compression stockings. This patient'",
+    "correct": false
+  },
+  {
+    "question": "An 11-month-old male is brought to the emergency room by his mother. The mother reports that the child is in severe pain and has not moved his right l",
+    "reference": "A",
+    "predicted": "D",
+    "raw_output": "D. Collagen production deficiency. The",
+    "correct": false
+  },
+  {
+    "question": "A 60-year-old man, who was a coal miner for more than 15 years presents with complaints of a cough and shortness of breath. His cough started 6 years ",
+    "reference": "C",
+    "predicted": "A",
+    "raw_output": "A. Coal worker's pneumo",
+    "correct": false
+  },
+  {
+    "question": "A 32-year-old woman is brought to the emergency department by her husband because of an episode of hematemesis 2 hours ago. She has had dyspepsia for ",
+    "reference": "D",
+    "predicted": "A",
+    "raw_output": "A: Documentation of her decision prior to treatment",
+    "correct": false
+  },
+  {
+    "question": "A 26-year-old woman presents to the clinic with complaints of missing her 'monthlies'. She usually has her menses are around the 15th of every month a",
+    "reference": "C",
+    "predicted": "B",
+    "raw_output": "B: Supplement her treatment with 3-",
+    "correct": false
+  },
+  {
+    "question": "A 35-year-old G4P1 woman presents for follow-up after her 3rd miscarriage. All 3 miscarriages occurred during the 2nd trimester. Past medical history ",
+    "reference": "A",
+    "predicted": "A",
+    "raw_output": "Anti-centromere. This patient's",
+    "correct": true
+  },
+  {
+    "question": "A 65-year-old woman comes to the physician because of a 3-month history of progressive shortness of breath and a dry cough. She has also noticed gradu",
+    "reference": "A",
+    "predicted": "A",
+    "raw_output": "A: Lisinopril. The patient'",
+    "correct": true
+  },
+  {
+    "question": "A 42-year-old male presents to his primary care physician with complaints of fatigue and occasionally darkened urine over the past 3 months. Upon furt",
+    "reference": "D",
+    "predicted": "C",
+    "raw_output": "C: Deficiency of CD-55",
+    "correct": false
+  },
+  {
+    "question": "A 29-year-old woman presents to the office with the complaint of a tingling sensation over her face and distal parts of her lower limbs. Three weeks a",
+    "reference": "A",
+    "predicted": "A",
+    "raw_output": "A: Antibody-mediated destruction of",
+    "correct": true
+  },
+  {
+    "question": "A 36-year-old man is brought in by ambulance after being found down on the sidewalk. It is uncertain how long he was down before being found, and he d",
+    "reference": "D",
+    "predicted": "A",
+    "raw_output": "A: Decreased bicarbonate",
+    "correct": false
+  },
+  {
+    "question": "A 37-year-old woman presents to the emergency department with a chief complaint of severe pain in her face. She states that over the past week she has",
+    "reference": "C",
+    "predicted": "A",
+    "raw_output": "A: Alprazolam. The patient",
+    "correct": false
+  },
+  {
+    "question": "A 5-year-old boy presents to the emergency department with sudden onset nausea and vomiting that started 2 hours ago. The patient's parents can not re",
+    "reference": "D",
+    "predicted": "A",
+    "raw_output": "A: Deferoxamine. This patient",
+    "correct": false
+  },
+  {
+    "question": "A 4-year-old boy is brought to the emergency department by his mother after cutting his buttock on a piece of broken glass. There is a 5-cm curvilinea",
+    "reference": "B",
+    "predicted": "B",
+    "raw_output": "B: Bupivacaine with epine",
+    "correct": true
+  },
+  {
+    "question": "A 41-year-old woman comes to the physician because of an 8-hour history of colicky abdominal pain and nausea. The pain worsened after she ate a sandwi",
+    "reference": "C",
+    "predicted": "A",
+    "raw_output": "A: Common bile duct.",
+    "correct": false
+  },
+  {
+    "question": "A 64-year-old male presents to the emergency room with difficulty breathing. He recently returned to the USA following a trip to Singapore. He reports",
+    "reference": "A",
+    "predicted": "B",
+    "raw_output": "B: Autoantibodies directed against plate",
+    "correct": false
+  },
+  {
+    "question": "A 33-year-old woman presents to the emergency department with pain in her right wrist. She says she was walking on the sidewalk a few hours ago when s",
+    "reference": "B",
+    "predicted": "B",
+    "raw_output": "B: Bone labeled 'B'. This",
+    "correct": true
+  }
+]

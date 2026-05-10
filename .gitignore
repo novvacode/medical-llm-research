@@ -1,0 +1,40 @@
+﻿# Virtual environment
+venv/
+.venv/
+
+# Model weights (use HuggingFace Hub instead)
+models/
+
+# Raw data (too large)
+data/raw/
+
+# FAISS index
+*.index
+*.faiss
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+runs/
+wandb/
+
+# Egg / build
+*.egg-info/
+dist/
+build/

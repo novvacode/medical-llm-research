@@ -1,0 +1,29 @@
+[
+  {
+    "label": "Base Phi-3 (no FT, no RAG)",
+    "n_scored": 200,
+    "bleu": 0.038,
+    "rouge1": 0.1997,
+    "rougeL": 0.1326,
+    "meteor": 0.1732,
+    "bertscore": 0.8332
+  },
+  {
+    "label": "Fine-tuned Phi-3",
+    "n_scored": 200,
+    "bleu": 0.1335,
+    "rouge1": 0.2685,
+    "rougeL": 0.211,
+    "meteor": 0.2356,
+    "bertscore": 0.8564
+  },
+  {
+    "label": "Fine-tuned Phi-3 + RAG",
+    "n_scored": 200,
+    "bleu": 0.151,
+    "rouge1": 0.2705,
+    "rougeL": 0.2129,
+    "meteor": 0.2362,
+    "bertscore": 0.8574
+  }
+]

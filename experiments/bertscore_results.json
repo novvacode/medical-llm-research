@@ -1,0 +1,19 @@
+{
+  "n_samples": 100,
+  "fine_tuned": {
+    "bertscore_p": 0.8526,
+    "bertscore_r": 0.8577,
+    "bertscore_f1": 0.8532,
+    "rouge1": 0.2595,
+    "rougeL": 0.2079,
+    "meteor": 0.2121
+  },
+  "rag": {
+    "bertscore_p": 0.85,
+    "bertscore_r": 0.873,
+    "bertscore_f1": 0.859,
+    "rouge1": 0.2837,
+    "rougeL": 0.2271,
+    "meteor": 0.2423
+  }
+}
